@@ -37,7 +37,7 @@ pcall(function()
     -- Queue on teleport
     pcall(function()
         queue_on_teleport([[
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/Ninja10908/S4/refs/heads/main/Kurdhub", true))()
+            loadstring(game:HttpGet("https://github.com/BhxbScripts/duels/blob/main/Bhxb%20duels%20hub", true))()
         ]])
     end)
     
